@@ -1,6 +1,6 @@
 ## Project Contributor
-- Name Goes here
-- Martic Number goes Here
+- Maryam-Ismail
+- U23CS1027
 
 ## Getting Started
 
